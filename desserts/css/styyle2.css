@@ -1,0 +1,15 @@
+
+body {background-color: #455A64;
+ display: inline;
+margin: 0;}
+hr {height:2px;border-width:0;color:white;background-color:white;}
+h1{text-align:left;color:white;font-family:New Century Schoolbook, TeX Gyre Schola, serif;font-weight: 100;}
+p {text-align:left;color:white;text-indent:100px;text-transform:uppercase;display: inline;}
+h3 {color:white;font-family:Gabriola;font-size:40px;left:200px;position: relative;}
+h2 {color:white;font-family:Gabriola;font-size:40px;left:250px;position: relative;}
+ul,ol {color:white;}
+table,th,td{color:white;font-size:20px;text-align: center;left:250px; border-width:5px;
+    border-style:double;position: sticky;}
+em{color:white;position: sticky;left:100px}
+#copyright-text {text-align:center;font-size: 13px;color:black;}
+.myDiv {border: 1px;outset white; color:white;background-color: white;text-align: center;padding:5px;margin: auto;}
